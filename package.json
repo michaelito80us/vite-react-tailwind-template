@@ -1,8 +1,10 @@
 {
   "name": "vite-react-tailwind-template",
+  "description": "A Vite + React 18 + Tailwind CSS + ESlint + Prettier template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Michael Epelboim",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
